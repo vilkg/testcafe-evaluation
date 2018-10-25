@@ -1,0 +1,27 @@
+{
+  "name": "testcafe-evaluation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilkg/testcafe-evaluation.git"
+  },
+  "keywords": [
+    "testing",
+    "automation",
+    "test-cafe"
+  ],
+  "author": "Gintare Vilkelyte <vilkelyte.gintare@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vilkg/testcafe-evaluation/issues"
+  },
+  "homepage": "https://github.com/vilkg/testcafe-evaluation#readme",
+  "devDependencies": {
+    "testcafe": "^0.23.0"
+  }
+}
